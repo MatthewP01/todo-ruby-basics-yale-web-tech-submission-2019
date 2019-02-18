@@ -13,7 +13,7 @@ def argue (name)
 end
 
 def greeting (name, age)
-
+  name, age
 end
 
 def return_a_value
